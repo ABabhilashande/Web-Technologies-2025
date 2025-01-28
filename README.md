@@ -7,5 +7,5 @@
 
 #Lab Assignment-2 :
 
-    #part1 (Weather)-https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/weather.html
-    #part2 (Finance)-https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/finance.html
+  #part1 -https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/weather.html
+  #part2 -https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/finance.html
