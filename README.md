@@ -12,3 +12,6 @@
 
 #Lab Assignment-2.2:                                            
     https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/studentmanagementsystem.html
+
+#Lab Assignment 5.1:
+    https://github.com/ABabhilashande/Web-Technologies-2025/blob/main/Assignment-5.zip
